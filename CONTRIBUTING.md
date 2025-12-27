@@ -14,7 +14,7 @@ Thank you for your interest in contributing to this project! This document provi
 
 ```bash
 # Clone your fork
-git clone https://github.com/your-username/BMDC-Integration.git
+git clone https://github.com/YOUR-USERNAME/BMDC-Integration.git
 cd BMDC-Integration
 
 # Create a development environment

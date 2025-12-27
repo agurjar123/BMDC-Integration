@@ -31,7 +31,7 @@ See `requirements.txt` for complete dependency list.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/BMDC-Integration.git
+git clone https://github.com/agurjar123/BMDC-Integration.git
 cd BMDC-Integration
 ```
 
@@ -87,7 +87,7 @@ This script will:
 For interactive analysis:
 
 ```bash
-jupyter notebook AG_082225.ipynb
+jupyter notebook bmdc_integration_analysis.ipynb
 ```
 
 The notebook provides step-by-step visualization and analysis of the integration process.
@@ -162,7 +162,7 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-For questions or issues, please open an issue on GitHub or contact [your email].
+For questions or issues, please open an issue on GitHub.
 
 ## Acknowledgments
 
